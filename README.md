@@ -7,7 +7,7 @@ A React app to search movies using the OMDb API. Built with React, Redux Toolkit
 ## Live Demo
 
 You can check the live project here:  
-👉 (http://localhost:3000/Nishitha-Bogireddy/movie-search.git)
+👉 ([http://localhost:3000/Nishitha-Bogireddy/movie-search.git](http://localhost:3000/Nishitha-Bogireddy/movie-search.git))
 
 ---
 
